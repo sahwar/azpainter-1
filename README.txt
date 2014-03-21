@@ -20,6 +20,10 @@ AzPainter ver 1.0.2 简体中文化项目
     make
     make install
 
+译者：
+  Xelloss
+  mike
+
 使用协议：
   GPL v3
 
