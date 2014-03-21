@@ -6,7 +6,7 @@ AzPainter ver 1.0.2 简体中文化项目
   先编译安装AzPainter，然后在简体中文Ubuntu的终端上，执行
     git clone git@github.com:mike2718/azpainter.git
     cd azpainter
-    make install
+    sudo make install
 
 自行编译二进制文件：
 
@@ -18,12 +18,11 @@ AzPainter ver 1.0.2 简体中文化项目
     cd azpainter
     make clean
     make
-    make install
+    sudo make install
 
 译者：
   Xelloss
   mike
 
 使用协议：
-  GPL v3
-
+  GNU GPL v3
