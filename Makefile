@@ -10,7 +10,7 @@ AXTRANS := ~/src/azxclass-2.4/tool/axtrans
 
 .PHONY: clean install uninstall tounix
 
-zh_CN.axt:
+zh_CN.axt: tounix
 	$(AXTRANS) zh_CN -o $@
 
 clean:
