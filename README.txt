@@ -8,7 +8,7 @@ AzPainter ver 1.0.2 简体中文化项目
     cd azpainter
     make install
 
-编译二进制文件：
+自行编译二进制文件：
 
   1.下载并编译最新版本的AzXClass
     http://sourceforge.jp/projects/azxclass/
