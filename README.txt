@@ -1,4 +1,4 @@
-AzPainter ver 1.0.2 简体中文化项目
+AzPainter for Linux ver 1.0.2 简体中文化项目
 
 
 安装(懒人法)：
