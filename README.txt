@@ -8,7 +8,7 @@ AzPainter for Linux ver 1.0.2 简体中文化项目
     cd azpainter
     sudo make install
 
-自行编译二进制文件：
+自行编译二进制简体中文语言文件：
 
   1.下载并编译最新版本的AzXClass
     http://sourceforge.jp/projects/azxclass/
