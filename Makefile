@@ -4,7 +4,7 @@ datadir := $(prefix)/share/azpainter
 
 RM := rm -f
 INSTALL_DAT := install -v -m 644
-AXTRANS := ~/src/azxclass-2.4/tool/axtrans
+AXTRANS := ~/src/azxclass-2.5/tool/axtrans
 
 ################################
 
