@@ -4,7 +4,7 @@ AzPainter for Linux ver 1.0.4 简体中文化项目
 
 快速汉化：
 
-  先编译安装AzPainter (http://sourceforge.jp/projects/azpainter/)，然后在简体中文Ubuntu的终端上，执行
+  先编译安装AzPainter -> http://sourceforge.jp/projects/azpainter，然后在简体中文Ubuntu的终端上，执行
     git clone git@github.com:mike2718/azpainter.git
     cd azpainter
     sudo make install
