@@ -1,6 +1,7 @@
-AzPainter for Linux ver 1.0.4 简体中文化项目
+AzPainter for Linux ver 1.0.4 简体中文化
 
-官方版 AzPainter 从 1.0.3 以后的版本已经集成了本简体中文语言文件
+官方版 AzPainter 从 1.0.3 以后的版本已经集成了本简体中文语言文件。
+在 Ubuntu 14.04 下测试
 
 快速汉化：
 
@@ -21,7 +22,7 @@ AzPainter for Linux ver 1.0.4 简体中文化项目
     make
     sudo make install (必须已经安装了官方的azpainter)
 
-自定义 UI 字体 (宋体 9)：
+自定义 UI 字体 (需要先安装宋体)：
 
     mkdir ~/.azxclass
     touch default.conf
