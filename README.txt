@@ -1,33 +1,8 @@
-AzPainter for Linux ver 1.0.5 简体中文化
+AzPainter for Linux ver 1.0.7 简体中文化
 
 官方版 AzPainter 从 1.0.3 以后的版本已经集成了本简体中文语言文件。
-在 Ubuntu 14.04 下测试
 
-快速汉化：
-
-  先编译安装AzPainter -> http://sourceforge.jp/projects/azpainter，然后在简体中文Ubuntu的终端上，执行
-    git clone git@github.com:mike2718/azpainter.git
-    cd azpainter
-    sudo make install
-
-自行编译二进制简体中文语言文件：
-
-  1.下载并编译 AzXClass 2.5
-    http://sourceforge.jp/projects/azxclass/
-  2.对应的编辑简体中文化项目中的Makefile中AXTRANS的值为
-    AXTRANS := /path/to/axtrans
-  3.编译
-    cd azpainter
-    make clean
-    make
-    sudo make install (必须已经安装了官方的azpainter)
-
-自定义 UI 字体 (需要先安装宋体)：
-
-    mkdir ~/.azxclass
-    touch default.conf
-    cp ./default.conf ~/.azxclass/
-
+在 Ubuntu 16.04 LTS 下测试
 
 译者：
 
