@@ -8,7 +8,7 @@ AzPainter for Linux ver 1.0.7 简体中文化
 
 用法：
 
-./azpainter --lang zh_CN --font 'WenQuanYi Micro Hei-10'
+./azpainter --lang zh_CN --font 'WenQuanYi Micro Hei-9'
 
 译者：
 
