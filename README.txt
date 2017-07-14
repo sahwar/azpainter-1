@@ -15,4 +15,4 @@ AzPainter for Linux ver 1.0.7 简体中文化
   Xelloss
   mike2718
 
-使用协议：GNU GPL v3
+使用协议：MIT
